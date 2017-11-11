@@ -1,0 +1,1 @@
+ray attack: 10 experience: 0 currenthealth: 100 level: 1 x: 0 y: 0 Iron Sword damage: 5 accuracy: 10 attackSpeed: 5 criticalChance: 5 value: 0 Iron Chain defence: 30
