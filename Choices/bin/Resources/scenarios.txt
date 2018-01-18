@@ -1,0 +1,24 @@
+<html><div>You've been feeling down all day, your friends invite you to go out.</div></html>
+<html><div style="width:250px; height:100px;">Tell them you don't really feel up to it</div></html>
+<html><div style="width:250px; height:100px;">Even though you don't want to, you know you'll feel better if you go</div></html>
+<html><div>You feel like your significant other and you are drifting apart.</div></html>
+<html><div style="width:250px; height:100px;">Don't bring it up, it might annoy them and you're sure things will fix themselves</div></html>
+<html><div style="width:250px; height:100px;">Talk to them about it, it might be difficult but you'll both grow because of it</div></html>
+<html><div>You haven't done much all day, but you feel very tired.</div></html>
+<html><div style="width:250px; height:100px;">That's alright, you can work on the things you need to do tomorrow.</div></html>
+<html><div style="width:250px; height:100px;">Get off of bed and do what you have to do.</div></html>
+<html><div>Your parents approach you, they were just wondering about how you're doing and if you want to tell them anything.</div></html>
+<html><div style="width:250px; height:100px;">Tell them you're fine, and to not worry about it.</div></html>
+<html><div style="width:250px; height:100px;">Tell them what's on your mind, and ask them for help.</div></html>
+<html><div>You come across some things you want to buy, but you are short one money currently.</div></html>
+<html><div style="width:250px; height:100px;">Buy them anyway, they'll make you happy.</div></html>
+<html><div style="width:250px; height:100px;">Realize that any happiness from impulse buying won't last. You have other things to take care of.</div></html>
+<html><div></div></html>
+<html><div style="width:250px; height:100px;"></div></html>
+<html><div style="width:250px; height:100px;"></div></html>
+<html><div></div></html>
+<html><div style="width:250px; height:100px;"></div></html>
+<html><div style="width:250px; height:100px;"></div></html>
+<html><div></div></html>
+<html><div style="width:250px; height:100px;"></div></html>
+<html><div style="width:250px; height:100px;"></div></html>
